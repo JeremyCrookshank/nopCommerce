@@ -17,6 +17,9 @@ set @resources='
   <LocaleResource Name="Admin.Configuration.Settings.Tax.DefaultTaxCategory.Hint">
     <Value>Select default tax category for products. It''ll be pre-selected on the "Add new product" page.</Value>
   </LocaleResource>
+  <LocaleResource Name="Admin.Catalog.Products.SpecificationAttributes.Fields.SpecificationAttribute.Hint">
+    <Value>Choose a product specification attribute. You can manage specification attributes from Catalog &gt; Attributes &gt; Product Specifications.</Value>
+  </LocaleResource>
 </Language>
 '
 
